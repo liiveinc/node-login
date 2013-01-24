@@ -1,4 +1,3 @@
-
 $(document).ready(function(){
 
 	var hc = new HomeController();
@@ -25,8 +24,7 @@ $(document).ready(function(){
 			}
 		}
 	});
-	$('#name-tf').focus();
-	$('#github-banner').css('top', '41px');
+
 
 // customize the account settings form //
 	
